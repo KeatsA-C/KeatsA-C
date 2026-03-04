@@ -79,7 +79,7 @@
 
 ---
 
-### 🎓 Education & Certifications
+### 🎓 Education
 
 #### 🏛️ Academic Background
 
