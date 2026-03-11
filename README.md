@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio.darkware.site/"><strong>🌐 Portfolio</strong></a> •
+  <a href="https://portfolio.keatsdev.me/"><strong>🌐 Portfolio</strong></a> •
   <a href="mailto:keatsaudrey10@gmail.com"><strong>✉️ Email</strong></a> •
   <strong>📍 Tanza, Cavite</strong>
 </p>
